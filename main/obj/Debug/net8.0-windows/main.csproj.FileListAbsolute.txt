@@ -1,0 +1,15 @@
+C:\Users\jatan\OneDrive\Documents\GitHub\Painter\main\bin\Debug\net8.0-windows\main.exe
+C:\Users\jatan\OneDrive\Documents\GitHub\Painter\main\bin\Debug\net8.0-windows\main.deps.json
+C:\Users\jatan\OneDrive\Documents\GitHub\Painter\main\bin\Debug\net8.0-windows\main.runtimeconfig.json
+C:\Users\jatan\OneDrive\Documents\GitHub\Painter\main\bin\Debug\net8.0-windows\main.dll
+C:\Users\jatan\OneDrive\Documents\GitHub\Painter\main\bin\Debug\net8.0-windows\main.pdb
+C:\Users\jatan\OneDrive\Documents\GitHub\Painter\main\obj\Debug\net8.0-windows\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jatan\OneDrive\Documents\GitHub\Painter\main\obj\Debug\net8.0-windows\main.AssemblyInfoInputs.cache
+C:\Users\jatan\OneDrive\Documents\GitHub\Painter\main\obj\Debug\net8.0-windows\main.AssemblyInfo.cs
+C:\Users\jatan\OneDrive\Documents\GitHub\Painter\main\obj\Debug\net8.0-windows\main.csproj.CoreCompileInputs.cache
+C:\Users\jatan\OneDrive\Documents\GitHub\Painter\main\obj\Debug\net8.0-windows\main.sourcelink.json
+C:\Users\jatan\OneDrive\Documents\GitHub\Painter\main\obj\Debug\net8.0-windows\main.dll
+C:\Users\jatan\OneDrive\Documents\GitHub\Painter\main\obj\Debug\net8.0-windows\refint\main.dll
+C:\Users\jatan\OneDrive\Documents\GitHub\Painter\main\obj\Debug\net8.0-windows\main.pdb
+C:\Users\jatan\OneDrive\Documents\GitHub\Painter\main\obj\Debug\net8.0-windows\main.genruntimeconfig.cache
+C:\Users\jatan\OneDrive\Documents\GitHub\Painter\main\obj\Debug\net8.0-windows\ref\main.dll
