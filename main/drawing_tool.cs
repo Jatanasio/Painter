@@ -1,11 +1,17 @@
-using Microsoft.VisualBasic.Logging;
-
 public class DrawingTool
 {
     private bool isDrawing = false;
     private Point lastPoint;
     private Pen pen;
 
+    public Color Color
+    {
+        get { return pen.Color; }
+        set
+        {
+            pen.Color = value; // Update the pen color
+        }
+    }
     public DrawingTool(Color color, int width)
     {
         pen = new Pen(color, width);
